@@ -1,1 +1,1 @@
-# REST_Go
+# Creating a REST API using Go language.
